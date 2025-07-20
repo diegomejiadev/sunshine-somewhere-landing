@@ -1,7 +1,6 @@
 import { IMAGE_ALT } from "@/constants";
 import { CONTACT_US_ITEMS } from "@/constants/contact-info.cst";
 import { MOBILE_NAV_LINKS } from "@/constants/navbar.cst";
-import { Fade } from "@/ui";
 import Image from "next/image";
 import Link from "next/link";
 import { isMobile } from "react-device-detect";
